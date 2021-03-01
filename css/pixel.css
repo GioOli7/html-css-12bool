@@ -1,0 +1,37 @@
+[class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nero {
+    height: 80px;
+    background-color: black;
+}
+
+.rosso {
+    height: 80px;
+    background-color: red;
+}
+
+.bianco {
+    height: 30px;
+    background-color: white;
+}
+
+.ACClogo {
+    width: 900px;
+    margin: 230px auto;
+    transform: rotate(-45deg) skewX(-45deg);
+}
+
+.competizione .nero {
+    height: 20px;
+}
+
+.competizione .bianco {
+    height: 20px;
+}
+
+.competizione {
+    margin-top: -90px;
+}
